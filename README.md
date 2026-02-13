@@ -2,8 +2,7 @@
 
 Me chamo Pedro Henrique Moraes, tenho 20 anos e sou natural de Curitiba, Paraná. Atualmente estou no 5º período de Ciência da Computação na PUCPR. Sou apaixonado por tecnologia e programação, e estou em busca da minha primeira oportunidade de estágio para aplicar meus conhecimentos em projetos reais e continuar evoluindo como desenvolvedor.
 
-<div> 
-  <a href="https://instagram.com/pedro_mora3s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div>
   <a href = "mailto:ph.moraes.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/phmoraesdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/phmoraesdev?tab=repositories&sort=stargazers"><img  src="https://custom-icon-badges.demolab.com/github/stars/phmoraesdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"></a>
