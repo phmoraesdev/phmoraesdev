@@ -78,7 +78,6 @@ Me chamo Pedro Henrique Moraes, tenho 20 anos e sou natural de Curitiba, Paraná
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
-
 <img 
     align="left" 
     alt="Arduino" 
@@ -90,14 +89,11 @@ Me chamo Pedro Henrique Moraes, tenho 20 anos e sou natural de Curitiba, Paraná
 
 <br/>
 <br/>
+<br/>
 
 ### 📊 Estatísticas
 
 <div align="left">
-  <a href="https://github.com/phmoraesdev">
-    <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=phmoraesdev&show_icons=true&title_color=ffffff&text_color=cccccc&icon_color=888888&bg_color=1e1e1e&hide_border=true&locale=pt-br" />
-  </a>
-  <a href="https://github.com/phmoraesdev">
-    <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phmoraesdev&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=ffffff&text_color=cccccc&icon_color=888888&bg_color=1e1e1e&hide_border=true&locale=pt-br" />
-  </a>
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=phmoraesdev&show_icons=true&title_color=ffffff&text_color=cccccc&icon_color=888888&bg_color=1e1e1e&hide_border=true&locale=pt-br" />
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phmoraesdev&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=ffffff&text_color=cccccc&icon_color=888888&bg_color=1e1e1e&hide_border=true&locale=pt-br" />
 </div>
