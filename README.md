@@ -93,7 +93,13 @@ Me chamo Pedro Henrique Moraes, tenho 20 anos e sou natural de Curitiba, Paraná
 
 ### 📊 Estatísticas
 
-<div align="left">
-  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=phmoraesdev&show_icons=true&title_color=ffffff&text_color=cccccc&icon_color=888888&bg_color=1e1e1e&hide_border=true&locale=pt-br" />
-  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phmoraesdev&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=ffffff&text_color=cccccc&icon_color=888888&bg_color=1e1e1e&hide_border=true&locale=pt-br" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=phmoraesdev&show_icons=true&title_color=ffffff&text_color=cccccc&icon_color=888888&bg_color=1e1e1e&hide_border=true&locale=pt-br" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phmoraesdev&layout=compact&custom_title=Tecnologias&langs_count=9&title_color=ffffff&text_color=cccccc&icon_color=888888&bg_color=1e1e1e&hide_border=true&locale=pt-br" />
+    </td>
+  </tr>
+</table>
