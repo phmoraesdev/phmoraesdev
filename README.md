@@ -47,14 +47,6 @@ Me chamo Pedro Henrique Moraes, tenho 20 anos e sou natural de Curitiba, Paraná
 />
 <img 
     align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-/>
-<img 
-    align="left" 
     alt="Mysql" 
     title="MySql"
     width="30px" 
