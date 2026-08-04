@@ -1,6 +1,6 @@
 # 🖥️ Pedro Henrique Moraes
 
-Me chamo Pedro Henrique Moraes, tenho 20 anos e sou natural de Curitiba, Paraná. Atualmente estou no 5º período de Ciência da Computação na PUCPR. Sou apaixonado por tecnologia e programação, e estou em busca da minha primeira oportunidade de estágio para aplicar meus conhecimentos em projetos reais e continuar evoluindo como desenvolvedor.
+Me chamo Pedro Henrique Moraes, tenho 20 anos e sou natural de Curitiba, Paraná. Atualmente estou no 6º período de Ciência da Computação na PUCPR. Sou apaixonado por tecnologia e programação, e estou em busca da minha primeira oportunidade de estágio para aplicar meus conhecimentos em projetos reais e continuar evoluindo como desenvolvedor.
 
 <div>
   <a href = "mailto:ph.moraes.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
