@@ -2,7 +2,7 @@
 
 **`Computer Science Student`**
 
-My name is Pedro Henrique Moraes; I am 20 years old and originally from Curitiba, Paraná. I am currently in my sixth semester of Computer Science at PUCPR. I am passionate about technology and programming, and I am seeking my first internship opportunity to apply my knowledge to real-world projects and continue growing as a developer.
+Computer Science student in the sixth semester at PUCPR, based in Curitiba, Brazil, with a strong interest in software development and problem-solving through code. Building a solid foundation in programming fundamentals, data structures, and algorithms, while exploring different areas of development to define a clear career path. Currently seeking a first internship opportunity to apply academic knowledge to real-world projects, gain hands-on experience, and grow alongside experienced developers.
 
 ---
 
